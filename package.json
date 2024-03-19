@@ -1,8 +1,8 @@
 {
+  "homepage": "https://britanytorrico.github.io/heroes",
   "name": "heroes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://britanytorrico.github.io/heroes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
